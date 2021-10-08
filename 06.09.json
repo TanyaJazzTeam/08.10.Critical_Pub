@@ -37,8 +37,8 @@
 			 		{
 			 	    "name": "electrostatics",
 					"complexity": "four ",
-					"interest": "five",
-					"irr": "1111"
+					"interest": "five"
+					
 			 }
 			 	]
 			}
