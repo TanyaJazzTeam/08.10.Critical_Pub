@@ -31,9 +31,7 @@
         {
           "name": "Elektrostatik",
           "complexity": "vier",
-          "interest": "five",
-          "irr": "1111"
-          
+          "interest": "five"
         }
       ]
     }
