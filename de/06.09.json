@@ -30,8 +30,8 @@
       "sections": [
         {
           "name": "Elektrostatik",
-          "complexity": "vier",
-          "interest": "five"
+          "complexity": "vier"
+          
         }
       ]
     }
