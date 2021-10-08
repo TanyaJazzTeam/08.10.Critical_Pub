@@ -4,21 +4,13 @@
       "name": "Mechanics",
       "sections": [
         {
-          "name": "Kinematik",
-          "complexity": "Durchschnitt",
-          "interest": "groß",
-          "bool": "wahr"
         },
         {
-          "name": "Hydrodynamics",
-          "complexity": "4",
-          "interest": "3",
-          "bool": "falsch"
+          "name": "Hydrodynamics"
         }
       ]
     },
     {
-      "note": "Zusatz",
       "useful links": [
         {
           "url": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0"
@@ -26,14 +18,9 @@
       ]
     },
     {
-      "name": "Elektrizität",
       "sections": [
         {
-          "name": "Elektrostatik",
-          "complexity": "vier",
-          "interest": "five",
-          "irr": "1111"
-          
+          "interest": "five"
         }
       ]
     }
